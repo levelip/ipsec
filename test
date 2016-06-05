@@ -1,6 +1,6 @@
 [global]
 ipsec saref = yes
-listen-addr = IP         ;这里是你的主机外网ip地址,;号是注释,和一般的配置文件不同
+listen-addr = IPADDR         ;这里是你的主机外网ip地址,;号是注释,和一般的配置文件不同
 ; Use refinfo of 22 if using an SAref kernel patch based on openswan 2.6.35 or
 ;  when using any of the SAref kernel patches for kernels up to 2.6.35.
 ; saref refinfo = 30
